@@ -1,2 +1,2 @@
-# Zada Lile Portfolio Website
-Coded and Developed by Ethan McGuinness Technology and Design: ethanmcg.com 
+# Zada Lile Portfolio Website || ZadaLile.com
+Coded and Developed by Ethan McGuinness
